@@ -1,0 +1,22 @@
+Étapes pour la réalisation de l'application "Happy Birthday":
+
+
+1-J'ai créé toute l'arborescence comme demandé dans la consigne
+
+2-Création du contenu du fichier html, lequel inclut: 
+-La balise link pour lier le fichier css
+-les étiquettes script pour lié le fichier au fichier JavaScript et au CDN jQuery
+-Création d'un titre h1, une liste avec trois items vides et un deuxième titre h2
+-J'ai choisi deux polices dans google fonts, 'roboto' et 'Love Ya Like A Sister' et je les ai rajouté via la balise link
+
+3-J'ai ajouter un dossier "images" avec l'image de fond pour la fin de l'animation 
+-J'ai aussi ajouté un dossier avec un fichier audio mp3 pour la fin de l'animation 
+
+4-Ensuite, dans le fichier Javascript, j'ai créé les fonctions afin de pouvoir faire apparaître tous les éléments lors du clic de boutons. 
+J'ai défini des identités et des classes dans les étiquettes htmls avec lesquels je les ai appelé dans le fichier js. 
+J'ai défini les variables pour chaque bouton et aussi les variables de textes à ajouter
+J'ai utilisé la méthode "append" pour ajouter le texte lors du clic de boutons
+J'ai utilisé les effets fadeIn et fadeOut pour faire apparaître et disparaître les éléments avec un certain délai
+J'ai utilisé une fonction pour définir l'objet audio et dans celle-ci un "event pour déclencher l'audio 
+
+5-Finalement, j'ai créé tous les styles nécessaires pour chaque élément dans le fichier css. 
